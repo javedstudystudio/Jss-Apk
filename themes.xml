@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.JavedStudyStudio" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#58745F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#5A5F70</item>
+        <item name="android:navigationBarColor">#5A5F70</item>
+    </style>
+</resources>
